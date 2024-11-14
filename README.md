@@ -1,8 +1,16 @@
-# React + Vite
+### Componente de Login com SCSS
+## Descrição
+Este projeto contém um componente de login simples desenvolvido com React e SCSS. Ele inclui um formulário de login com campos para email e senha, um botão de envio estilizado e uma imagem de logotipo.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Tecnologias Utilizadas
+- React
+- SCSS (Sass)
 
-Currently, two official plugins are available:
+## Estrutura do Projeto
+O projeto é composto por um formulário de login que inclui:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Campo de e-mail para o usuário inserir seu endereço de e-mail.
+- Campo de senha para o usuário inserir sua senha.
+- Botão de login estilizado com efeito de hover.
+- Imagem de logo exibida na parte superior do formulário.
+- Estilos responsivos para garantir que o formulário se ajuste adequadamente em diferentes tamanhos de tela.
